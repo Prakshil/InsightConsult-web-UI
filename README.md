@@ -7,7 +7,7 @@
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.0-38bdf8?style=flat-square&logo=tailwind-css)
 
-A modern, fully responsive consultancy agency website built with Next.js 15, React 19, and Tailwind CSS 4.## Getting Started
+A modern, fully responsive consultancy agency website built with Next.js 15, React 19, and Tailwind CSS 4
 
 ## 🚀 Features![React](https://img.shields.io/badge/React-19.1.0-blue?style=flat-square&logo=react)
 
