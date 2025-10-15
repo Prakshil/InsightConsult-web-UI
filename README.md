@@ -5,21 +5,11 @@
 
 ![React](https://img.shields.io/badge/React-19.1.0-blue?style=flat-square&logo=react)
 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.0-38bdf8?style=flat-square&logo=tailwind-css)A modern, fully responsive consultancy agency website built with Next.js 15, React 19, and Tailwind CSS 4.## Getting Started
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.0-38bdf8?style=flat-square&logo=tailwind-css)
 
-
-
-A modern, fully responsive consultancy agency website built with Next.js 15, React 19, and Tailwind CSS 4.
-
-
-
----![Next.js](https://img.shields.io/badge/Next.js-15.5.5-black?style=flat-square&logo=next.js)First, run the development server:
-
-
+A modern, fully responsive consultancy agency website built with Next.js 15, React 19, and Tailwind CSS 4.## Getting Started
 
 ## 🚀 Features![React](https://img.shields.io/badge/React-19.1.0-blue?style=flat-square&logo=react)
-
-
 
 ### ✨ Core Functionality![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.0-38bdf8?style=flat-square&logo=tailwind-css)```bash
 
@@ -37,7 +27,7 @@ A modern, fully responsive consultancy agency website built with Next.js 15, Rea
 
 
 
-### 🎯 Sections## 🚀 Features# or
+### 🎯 Sections## 🚀 
 
 
 
@@ -77,15 +67,10 @@ A modern, fully responsive consultancy agency website built with Next.js 15, Rea
 
 ![Services and About](./public/2.png)
 
-*Showcase of core consultancy services with professional layout*1. **Hero/Banner** - Full-screen hero with background image and CTAThis project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-
 
 ### Pricing & Testimonials2. **About** - Company overview with image and detailed description
 
 ![Pricing Plans](./public/3.png)
-
-*Transparent pricing tiers and client testimonials*3. **Services** - 4 core consultancy services with icons## Learn More
 
 
 
