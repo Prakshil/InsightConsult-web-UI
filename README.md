@@ -1,5 +1,4 @@
-# InsightConsult - Professional Consultancy Website# InsightConsult - Professional Consultancy WebsiteThis is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+# InsightConsult - Professional Consultancy Website
 
 
 ![Next.js](https://img.shields.io/badge/Next.js-15.5.5-black?style=flat-square&logo=next.js)
